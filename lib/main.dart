@@ -233,7 +233,7 @@ class _HomePageState extends State<HomePage> {
                     BottomNavigationBarItem(
                       icon: Icon(Icons.person),
                       label: 'About',
-                      backgroundColor: Colors.orangeAccent,
+                      backgroundColor: Colors.pinkAccent,
                     ),
                   ],
                 ),
