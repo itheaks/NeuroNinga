@@ -8,7 +8,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Number Comparison',
+      title: 'Number Comparison Game',
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
@@ -23,8 +23,8 @@ class NumberComparisonGame extends StatefulWidget {
 }
 
 class _NumberComparisonGameState extends State<NumberComparisonGame> {
-  int number1 = 0;
-  int number2 = 0;
+  int number1 = 00;
+  int number2 = 00;
   int targetNumber = 0;
   int score = 0;
   Timer? timer;
