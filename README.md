@@ -5,7 +5,7 @@ A new Flutter project.
 ## Getting Started
 
 This is a flutter based application where it is designed to help early stage student to boost up their IQ. This provides platform for the students where they can learn by solving problem apart from academics. This app consists of mind games where is a timer of 60 second to boost focus and accuracy. This app consists of luck checker section where with the help of rotating virtual dice you can check your LUCK.
-
+..
 This is login or first page where is getting trained in image. Here user have to write their name which will displayed on app bar ahead.
 ![WhatsApp Image 2023-06-29 at 17 16 17](https://github.com/itheaks/NeuroNinga/assets/134759689/2bfb6244-3322-4a67-8ef7-6192be25639a)
 
