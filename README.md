@@ -8,11 +8,19 @@ Neuro Ninja is a Flutter-based application designed to help early-stage students
 
 1. **Login/First Page**: Upon launching the app, users are greeted with a login page where they can enter their name. The name is then displayed on the app bar throughout the application.
 
+![image](https://github.com/itheaks/NeuroNinga/assets/134759689/74856a20-0f81-4d17-aee7-115ba2fc79e6)
+
+![image](https://github.com/itheaks/NeuroNinga/assets/134759689/5814128e-d261-4d4e-b013-da15a0ca9298)
+
+
 2. **Logical Reasoning**: The main page of the app features logical reasoning questions for self-practice. Users can attempt these questions to improve their analytical skills and problem-solving abilities.
 
     - **Instruction Page**: Before starting the logical reasoning quiz, users are presented with an instruction page that provides guidelines and tips for solving the questions effectively.
     
     - **Quiz Page**: This page displays the logical reasoning questions one by one, allowing users to select the correct answers from multiple choices. A timer of 60 seconds is provided to boost focus and accuracy. Users can track their progress and check their performance after completing the quiz.
+
+![image](https://github.com/itheaks/NeuroNinga/assets/134759689/d0b10a34-6913-4a6c-8672-ecf545ed3add)
+
 
 3. **Mind Games**: Neuro Ninja offers various mind games to challenge and sharpen the users' cognitive abilities.
 
@@ -22,7 +30,7 @@ Neuro Ninja is a Flutter-based application designed to help early-stage students
     
     - **Find My Color**: In this game, users are shown a grid of colored tiles. They must locate and tap on the tile that matches the given color. The game challenges their visual perception and color recognition skills.
   
-      ![image](https://github.com/itheaks/NeuroNinga/assets/134759689/63d30471-1eb1-417b-99d0-d4d069883cfb)
+![image](https://github.com/itheaks/NeuroNinga/assets/134759689/63d30471-1eb1-417b-99d0-d4d069883cfb)
 
 
 4. **Luck Checker**: The app includes a luck checker section where users can test their luck using a virtual rotating dice.
@@ -31,7 +39,7 @@ Neuro Ninja is a Flutter-based application designed to help early-stage students
     
     - When the user gets a 4 on the dice, a different result page is shown.
   
-      ![image](https://github.com/itheaks/NeuroNinga/assets/134759689/baad420b-6b48-4633-89d7-22e0df097b37)
+![image](https://github.com/itheaks/NeuroNinga/assets/134759689/baad420b-6b48-4633-89d7-22e0df097b37)
 
     
 5. **About Page**: The about page provides information about the Neuro Ninja app, its purpose, and the team behind its development.
