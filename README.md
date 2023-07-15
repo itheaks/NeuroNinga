@@ -2,7 +2,7 @@
 
 Neuro Ninja is a Flutter-based application designed to help early-stage students boost their IQ and improve their problem-solving skills. The app provides a platform for students to learn through solving mind games and logical reasoning questions outside of their academic curriculum. With a focus on enhancing focus, accuracy, and critical thinking, Neuro Ninja offers an engaging learning experience.
 
-![image](https://github.com/itheaks/NeuroNinga/assets/134759689/f29fb92c-dc27-4fb3-8428-e698e6ccdf1d)
+
 
 ## Features
 
@@ -21,12 +21,18 @@ Neuro Ninja is a Flutter-based application designed to help early-stage students
     - **Compare Sum of Two Numbers**: This game tests the users' ability to compare the sums of two numbers. Users are given two sets of numbers and must determine which set has a greater sum. Correct answers earn points and contribute to the users' overall score.
     
     - **Find My Color**: In this game, users are shown a grid of colored tiles. They must locate and tap on the tile that matches the given color. The game challenges their visual perception and color recognition skills.
+  
+      ![image](https://github.com/itheaks/NeuroNinga/assets/134759689/63d30471-1eb1-417b-99d0-d4d069883cfb)
+
 
 4. **Luck Checker**: The app includes a luck checker section where users can test their luck using a virtual rotating dice.
 
     - When the user gets a 6 on the dice, a corresponding result page is displayed.
     
     - When the user gets a 4 on the dice, a different result page is shown.
+  
+      ![image](https://github.com/itheaks/NeuroNinga/assets/134759689/baad420b-6b48-4633-89d7-22e0df097b37)
+
     
 5. **About Page**: The about page provides information about the Neuro Ninja app, its purpose, and the team behind its development.
 
