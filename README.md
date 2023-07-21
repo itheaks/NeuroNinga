@@ -73,7 +73,7 @@ To run Neuro Ninja on your device, follow these steps:
 
 ## Credits
 
-Neuro Ninja is developed and maintained by Amit Kumar Singh Student at DSCE Bangalore. We are dedicated to providing an engaging and educational platform for early-stage students to enhance their cognitive skills.
+Neuro Ninja is developed and maintained by Amit Kumar Singh Student @DSCE Bangalore. We are dedicated to providing an engaging and educational platform for early-stage students to enhance their cognitive skills.
 
 
 Happy learning and sharpening your mind with Neuro Ninja!
