@@ -23,7 +23,7 @@ Neuro Ninja is a Flutter-based application designed to help early-stage students
 ![image](https://github.com/itheaks/NeuroNinga/assets/134759689/d0b10a34-6913-4a6c-8672-ecf545ed3add)
 
 
-3. **Mind Games**: Neuro Ninja offers various mind games to challenge and sharpen the users' cognitive abilities.
+3. **Mind Game**: Neuro Ninja offers various mind games to challenge and sharpen the users' cognitive abilities.
 
     - **Catch Smaller Number**: In this game, users are presented with a series of numbers and must quickly identify and catch the smallest number among them. The faster they find the smallest number, the higher their score.
     
