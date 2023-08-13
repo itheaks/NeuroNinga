@@ -7,7 +7,7 @@ Neuro Ninja is a Flutter-based application designed to help early-stage students
 
 ## Features
 
-1. **Login/First Page**: Upon launching the app, users are greeted with a login page where they can enter their name. The name is then displayed on the app bar throughout the application.
+1. **Login Page**: Upon launching the app, users are greeted with a login page where they can enter their name. The name is then displayed on the app bar throughout the application.
 
 ![image](https://github.com/itheaks/NeuroNinga/assets/134759689/74856a20-0f81-4d17-aee7-115ba2fc79e6)
 
