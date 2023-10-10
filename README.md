@@ -38,7 +38,7 @@ Neuro Ninja is a Flutter-based application designed to help early-stage students
 
     - When the user gets a 6 on the dice, a corresponding result page is displayed.
     
-    - When the user gets a 4 on the dice, a different result page is displayed.
+    - When the user gets a 4 on the dice, a different result page is shown.
   
 ![image](https://github.com/itheaks/NeuroNinga/assets/134759689/baad420b-6b48-4633-89d7-22e0df097b37)
 
