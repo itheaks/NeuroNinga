@@ -1,5 +1,5 @@
 # Neuro Ninja 
-
+        
 Neuro Ninja is a Flutter-based application designed to help early-stage students boost their IQ and improve their problem-solving skills. The app provides a platform for students to learn through solving mind games and logical reasoning questions outside of their academic curriculum. With a focus on enhancing focus, accuracy, and critical thinking, Neuro Ninja offers an engaging learning experience.
 
 ![image](https://github.com/itheaks/NeuroNinga/assets/134759689/6e41408d-0db1-4b1a-b53c-a4acf55a6019)
